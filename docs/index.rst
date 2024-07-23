@@ -12,7 +12,6 @@ Dev&Ops 设计文档
    
 
    design/all
-   design/db
    design/admin
    design/nav
    design/update

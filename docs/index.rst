@@ -15,6 +15,7 @@ Dev&Ops 设计文档
    design/admin
    design/nav
    design/update
+   design/do_update
    design/labelme
    design/dashboard.md
    design/yaml_editor
